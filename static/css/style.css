@@ -270,6 +270,9 @@ footer{
 
         margin-top: -12%;
     }
+    .testing{
+        width: 60vw;
+    }
 }
 @media screen and (max-width: 768px){
     .cont2{
@@ -278,5 +281,8 @@ footer{
     }
     footer p{
         color: red;
+    }
+    .testing{
+        width: 80vw;
     }
 }
