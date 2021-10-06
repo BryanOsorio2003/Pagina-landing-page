@@ -280,7 +280,8 @@ footer{
         flex-direction: column;
     }
     footer p{
-        color: red;
+        margin-top: -12%;
+        
     }
     .testing{
         width: 80vw;
